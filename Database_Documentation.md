@@ -5,7 +5,6 @@ Dokumen ini berisi rincian arsitektur Data Warehouse yang dibangun menggunakan S
 ## 1. Skema Database (Star Schema)
 Pemodelan data menggunakan pendekatan **Star Schema** untuk mengoptimalkan performa kueri analitik. Skema ini terdiri dari satu Tabel Fakta sebagai pusat metrik operasional, yang dikelilingi oleh Tabel Dimensi untuk konteks deskriptif.
 
-*(Catatan: Jika kamu punya gambar ERD/Skema dari DBeaver atau gambaran manual, kamu bisa masukkan gambarnya di sini. Jika tidak ada, deskripsi di bawah ini sudah cukup mewakili).*
 
 ## 2. Struktur Tabel
 
